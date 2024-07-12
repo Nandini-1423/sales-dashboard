@@ -80,3 +80,12 @@ To create a comprehensive sales dashboard using Power BI that provides actionabl
 
 # Report Snapshot (Power BI Desktop)
 
+![dashboard image](https://github.com/user-attachments/assets/19171430-263e-42b6-8b94-49fb49f00449)
+
+# Insights
+
+A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+
+Following inferences can be drawn from the dashboard;
+### [1] Total no. of sales = 277K
+

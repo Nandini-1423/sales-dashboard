@@ -1,6 +1,6 @@
 # sales-dashboard
 
-### Dashboard Link :
+### Dashboard Link : https://github.com/Nandini-1423/sales-dashboard/blob/main/SALES%20DASHBOARD.pbix
 
 ## Problem Statement
 

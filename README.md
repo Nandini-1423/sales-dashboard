@@ -76,5 +76,7 @@ To create a comprehensive sales dashboard using Power BI that provides actionabl
 
 # Snapshot of Dashboard (Power BI Services)
  
+![dashboard image](https://github.com/user-attachments/assets/9e8c6b22-caf7-474b-ab4d-07953fe15528)
 
+# Report Snapshot (Power BI Desktop)
 

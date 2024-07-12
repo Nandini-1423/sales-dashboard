@@ -87,5 +87,19 @@ To create a comprehensive sales dashboard using Power BI that provides actionabl
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 Following inferences can be drawn from the dashboard;
-### [1] Total no. of sales = 277K
+
+### [1] This card visual was used to represent no of sales 
+![totral sales](https://github.com/user-attachments/assets/717f9343-3d4a-415a-b417-aa86e982150a)
+
+### [2] This card visual was used to represent no. of costs
+![total cost](https://github.com/user-attachments/assets/269e6b95-b49d-4447-9926-792f722ee72c)
+
+### [3] This card visual was used to represent no of quantity 
+![total quantity](https://github.com/user-attachments/assets/dc776758-a504-403c-88e3-2d54e6d470e7)
+
+### [4] This card visual was used to represent total no of count
+![TOTAL COUNT](https://github.com/user-attachments/assets/20bc6cca-8b0c-4787-b0d3-c21b7d5b5ca7)
+
+### [5] A card visual was used to represent  total no of profit
+![total profit](https://github.com/user-attachments/assets/8b5dba41-b693-4f10-ba5f-9fcc055fbc46)
 
